@@ -1,0 +1,17 @@
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\bin\Debug\net6.0-windows\PUP Marketplace.exe
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\bin\Debug\net6.0-windows\PUP Marketplace.deps.json
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\bin\Debug\net6.0-windows\PUP Marketplace.runtimeconfig.json
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\bin\Debug\net6.0-windows\PUP Marketplace.dll
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\bin\Debug\net6.0-windows\PUP Marketplace.pdb
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP_Marketplace.Form1.resources
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.AssemblyInfo.cs
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.dll
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\refint\PUP Marketplace.dll
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.pdb
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\PUP Marketplace.genruntimeconfig.cache
+C:\Users\james\OneDrive\Documents\c++\PUP Marketplace\PUP Marketplace\obj\Debug\net6.0-windows\ref\PUP Marketplace.dll
